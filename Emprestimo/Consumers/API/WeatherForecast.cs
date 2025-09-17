@@ -1,4 +1,4 @@
-namespace CAIXAVERSO.Api;
+namespace API;
 
 public class WeatherForecast
 {
